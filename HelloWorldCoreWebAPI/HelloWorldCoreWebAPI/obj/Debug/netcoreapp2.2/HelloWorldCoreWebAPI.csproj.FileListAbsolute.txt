@@ -1,0 +1,14 @@
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.csprojAssemblyReference.cache
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\bin\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.deps.json
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\bin\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.runtimeconfig.json
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\bin\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.runtimeconfig.dev.json
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\bin\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.dll
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\bin\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.pdb
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.csproj.CoreCompileInputs.cache
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.RazorAssemblyInfo.cache
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.RazorAssemblyInfo.cs
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.AssemblyInfoInputs.cache
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.AssemblyInfo.cs
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.dll
+D:\WEBAPI\HelloWorldCoreWebAPI\HelloWorldCoreWebAPI\obj\Debug\netcoreapp2.2\HelloWorldCoreWebAPI.pdb
