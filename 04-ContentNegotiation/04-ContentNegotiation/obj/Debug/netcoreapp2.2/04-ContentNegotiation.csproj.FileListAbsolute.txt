@@ -1,0 +1,14 @@
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\bin\Debug\netcoreapp2.2\04-ContentNegotiation.deps.json
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\bin\Debug\netcoreapp2.2\04-ContentNegotiation.runtimeconfig.json
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\bin\Debug\netcoreapp2.2\04-ContentNegotiation.runtimeconfig.dev.json
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\bin\Debug\netcoreapp2.2\04-ContentNegotiation.dll
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\bin\Debug\netcoreapp2.2\04-ContentNegotiation.pdb
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.csprojAssemblyReference.cache
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.csproj.CoreCompileInputs.cache
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.RazorAssemblyInfo.cache
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.RazorAssemblyInfo.cs
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.AssemblyInfoInputs.cache
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.AssemblyInfo.cs
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.RazorTargetAssemblyInfo.cache
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.dll
+D:\WEBAPI\04-ContentNegotiation\04-ContentNegotiation\obj\Debug\netcoreapp2.2\04-ContentNegotiation.pdb
